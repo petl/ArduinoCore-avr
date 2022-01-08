@@ -1,4 +1,10 @@
-# MattairTech Arduino AVR Core
+# Petl Arduino AVR Core
+
+This is a fork of the MattairTech repo (https://github.com/mattairtech/ArduinoCore-avr) whoich has been stale for a while. 
+It tries to get all the info together as the original Site ( https://www.mattairtech.com/) is not available anymore.
+
+
+## Original Readme
 
 This is a fork of the Arduino AVR core from arduino/Arduino (hardware/arduino/avr/ directory)
 on GitHub. This will be used to maintain Arduino support for AVR boards including the
