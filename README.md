@@ -1,8 +1,9 @@
 # Petl Arduino AVR Core
 
-This is a fork of the MattairTech repo (https://github.com/mattairtech/ArduinoCore-avr) whoich has been stale for a while. 
-It tries to get all the info together as the original Site ( https://www.mattairtech.com/) is not available anymore.
+This is a fork of the MattairTech repo (https://github.com/mattairtech/ArduinoCore-avr) which has been stale since 2015. 
+It tries to get all the info together as the original website (https://www.mattairtech.com/) is not available anymore.
 
+In the end this should be a reference on how to get the Arduino framework onto a ATmega32U4. 
 
 ## Original Readme
 
